@@ -46,4 +46,6 @@ With Threads (Multi-threaded Execution)
 - Faster since multiple ports are checked at the same time.
 - Waits until all threads finish before exiting
 
+ACKNOWLEDGEMENTS:
+- https://www.techtarget.com/searchsecurity/tutorial/How-to-build-a-Python-port-scanner # Used for base code
 
